@@ -25,7 +25,7 @@
 
 ### **Exploratory Data Analysis (EDA)**:
 
-- EDA revealed insights such as the distribution of booking completion rates, correlations between features like trip type and booking completion, and patterns in customer preferences based on sales channels. Visualizations like histograms, box plots, and scatter plots were used to analyze data distributions and relationships.
+- EDA revealed insights such as the distribution of booking completion rates, top countries for the booking, popular routes, patterns in customer preferences based on sales channels, popular schedules of the airline service, distribution of the booking completion.
 
 
 ![alt pass_dist](./images/pass_dist.png)  
