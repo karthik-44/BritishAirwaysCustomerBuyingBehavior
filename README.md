@@ -1,13 +1,13 @@
 # BritishAirwaysCustomerBuyingBehavior
 
-### The main responsibilities:
+<!-- ### The main responsibilities:
 
  - Completed a simulation focusing on how data science is a critical component
    of British Airways success.
  - Scraped and analysed customer review data to uncover findings,
  - Built a predictive model to understand factors that influence buying
    behaviour.
-
+-->
 1. **Background Context**:
     - In the airline industry, accurate prediction of customer bookings is crucial for optimizing revenue, resource allocation, and operational efficiency. Airlines face challenges such as fluctuating demand, seasonal trends, and competitive pricing, making accurate booking predictions essential for strategic decision-making.
 2. **Business Problem**:
