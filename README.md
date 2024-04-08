@@ -59,11 +59,15 @@
 
 ### **Data Preparation**:
 
-- Data preprocessing steps included handling missing values, encoding categorical variables, and scaling numerical features for model compatibility. Features like wants_extra_baggage, wants_preferred_seat, and wants_in_flight_meals were encoded into numerical format for modeling.
+- Data preprocessing steps included handling missing values, encoding categorical variables, and scaling numerical features for model compatibility. Features like wants_extra_baggage, wants_preferred_seat, and wants_in_flight_meals were encoded into numerical format for modeling. For the columns route, booking_origin the number of unique values is very high, so we shall use target encoding for these columns. Then we shall treat them as continuous features.
+- Split the data into train and test splits using 80/20 splits using stratification ensuring the distribution of the target is same in both the splits.
+- To handle class imbalance we shall use SMOTE(Synthetic Minority Over-sampling Technique).
 
 ### **Modeling**:
 
-- Logistic Regression, Random Forest, and SVM classification algorithms were chosen for modeling based on their suitability for binary classification tasks and interpretability. Models were trained using the prepared data, and hyperparameter tuning was performed to optimize model performance.
+- Random Forest Classifier was used for its feature importance feature and robustness.
+- Models were trained using the prepared train data and using cross fold validation techniques.
+- Hyperparameter tuning was performed to optimize model performance.
 
 ### **Evaluation**:
 
