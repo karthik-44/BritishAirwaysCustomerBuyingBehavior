@@ -21,6 +21,8 @@
 
 - The dataset contains information about customer bookings, including features like num_passengers, sales_channel, trip_type, purchase_lead, flight_hour, etc., and the target variable 'booking_complete'. The data was sourced from airline booking systems and contains both numerical and categorical variables.
 
+![data info]('./images/data_dict.png')
+
 ### **Exploratory Data Analysis (EDA)**:
 
 - EDA revealed insights such as the distribution of booking completion rates, correlations between features like trip type and booking completion, and patterns in customer preferences based on sales channels. Visualizations like histograms, box plots, and scatter plots were used to analyze data distributions and relationships.
