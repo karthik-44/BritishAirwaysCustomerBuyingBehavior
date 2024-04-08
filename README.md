@@ -27,6 +27,36 @@
 
 - EDA revealed insights such as the distribution of booking completion rates, correlations between features like trip type and booking completion, and patterns in customer preferences based on sales channels. Visualizations like histograms, box plots, and scatter plots were used to analyze data distributions and relationships.
 
+
+![alt pass_dist](./images/pass_dist.png)  
+
+
+![alt countries_top10](./images/countries_top10.png)  
+
+
+![alt cust_pref](./images/cust_pref.png)  
+
+
+
+![alt routes_top10](./images/routes_top10.png)  
+
+
+
+![alt bookings](./images/bookings.png)  
+
+
+
+![alt channel_dist](./images/channel_dist.png)  
+
+
+
+![alt pop_schedules](./images/pop_schedules.png)  
+
+
+
+
+
+
 ### **Data Preparation**:
 
 - Data preprocessing steps included handling missing values, encoding categorical variables, and scaling numerical features for model compatibility. Features like wants_extra_baggage, wants_preferred_seat, and wants_in_flight_meals were encoded into numerical format for modeling.
