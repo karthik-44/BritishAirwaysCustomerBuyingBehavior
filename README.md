@@ -70,7 +70,8 @@
 - Hyperparameter tuning was performed to optimize model performance.
 
 **Feature Importance:**  
-![feat imp](./images/rf_featureimp.png)
+
+ ![feat imp](./images/rf_featureimp.png)
 
 ### **Evaluation**:
 
@@ -78,7 +79,7 @@
 
 **Confusion Matrix**  
 
-![conf matrix](./images/confusion_matrix.png)
+ ![conf matrix](./images/confusion_matrix.png)
 
 ### **Challenges and Limitations**:
 
