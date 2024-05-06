@@ -73,6 +73,9 @@
 
 - Model performance was evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC to assess their predictive capabilities. Confusion matrices and ROC curves were analyzed to understand model behavior and identify areas for improvement.
 
+**Confusion Matrix**
+![conf matrix](./images/confusion_matrix.png)
+
 ### **Challenges and Limitations**:
 
 - Challenges included dealing with imbalanced classes in the target variable, ensuring data quality and consistency, and managing computational resources for model training. Limitations of the models included potential overfitting due to complex feature interactions and the need for continuous monitoring and updates in a dynamic airline industry environment.
