@@ -69,11 +69,15 @@
 - Models were trained using the prepared train data and using cross fold validation techniques.
 - Hyperparameter tuning was performed to optimize model performance.
 
+**Feature Importance:**  
+![feat imp](./images/rf_featureimp.png)
+
 ### **Evaluation**:
 
 - Model performance was evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC to assess their predictive capabilities. Confusion matrices and ROC curves were analyzed to understand model behavior and identify areas for improvement.
 
-**Confusion Matrix**
+**Confusion Matrix**  
+
 ![conf matrix](./images/confusion_matrix.png)
 
 ### **Challenges and Limitations**:
